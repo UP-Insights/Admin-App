@@ -1,4 +1,4 @@
-# **Admin App **
+# Admin App 
 
 > ### Admin Side Social Media App is basically use for manage multiple posts for user with admin login. Admin Login with credentials and Create , Edit or Delete post for any Users.
 
